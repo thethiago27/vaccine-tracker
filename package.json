@@ -1,0 +1,22 @@
+{
+  "name": "vaccine-tracker",
+  "version": "1.0.0",
+  "description": "Vaccine tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thethiago27/vaccine-tracker.git"
+  },
+  "author": "thethiago27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thethiago27/vaccine-tracker/issues"
+  },
+  "homepage": "https://github.com/thethiago27/vaccine-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

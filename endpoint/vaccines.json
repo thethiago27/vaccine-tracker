@@ -1,0 +1,98 @@
+{
+  "update_at": "08-12-2020",
+  "vaccines_current": 5,
+  "vaccines_in_test": [
+    {
+      "id": 1273,
+      "name": "Sinovac",
+      "origin": "China",
+      "phase": 3,
+      "tested_humans": 9000,
+      "number_of_doses": 2,
+      "timing_of_doses": "0 or 14 days",
+      "locales_tested": [
+        "Brazil"
+      ],
+      "vaccine_type": [
+        "Inactivated"
+      ]
+
+    },
+    {
+      "id": 3848,
+      "name": "ChAdOx1 nCoV-19",
+      "origin": "United Kingdom",
+      "phase": 3,
+      "tested_humans": 50000,
+      "number_of_doses": 1,
+      "locales_tested": [
+        "Brazil",
+        "United Kingdom",
+        "South African"
+      ],
+      "vaccine_type": [
+        "Non-Replicating",
+        "Viral Vector"
+      ]
+    },
+    {
+      "id": 3623,
+      "name": "Sputnik V",
+      "origin": "Russian",
+      "phase": "finished",
+      "tested_humans": "unknown",
+      "number_of_doses": "unknown",
+      "locales_tested": [
+        "Russian"
+      ],
+      "vaccine_type": [
+        "unknown"
+      ]
+    },
+    {
+      "id": 6538,
+      "name": "Wuhan Institute of Biological Products/Sinopharm",
+      "origin": "China",
+      "phase": 3,
+      "tested_humans": 10000,
+      "number_of_doses": 2,
+      "timing_of_doses": "0 or 14/21 days",
+      "locales_tested": [
+        "United Arab Emirates"
+      ],
+      "vaccine_type": [
+        "Inactivated"
+      ]
+    },
+    {
+      "id": 5434,
+      "name": "Moderna/NIAID",
+      "origin": "EUA",
+      "phase": 3,
+      "tested_humans": 30000,
+      "number_of_doses": 2,
+      "timing_of_doses": "0 or 28 days",
+      "locales_tested": [
+        "Randomized"
+      ],
+      "vaccine_type": [
+        "RNA"
+      ]
+    },
+    {
+      "id": 6373,
+      "name": "BioNTech/Fosun Pharma/Pfizer",
+      "origin": "EUA",
+      "phase": 3,
+      "tested_humans": 29481,
+      "number_of_doses": 2,
+      "timing_of_doses": "0 or 28 days",
+      "locales_tested": [
+        "Randomized"
+      ],
+      "vaccine_type": [
+        "RNA"
+      ]
+    }
+  ]
+}
